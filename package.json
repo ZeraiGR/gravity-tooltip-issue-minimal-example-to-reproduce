@@ -1,0 +1,24 @@
+{
+  "name": "gravity-tooltip-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gravity-ui/uikit": "6.34.0",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-redux-form": "1.16.8",
+    "react-redux": "7.2.0",
+    "redux": "4.0.5"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  }
+}
